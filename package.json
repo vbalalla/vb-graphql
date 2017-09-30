@@ -1,0 +1,22 @@
+{
+  "name": "vb-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbalalla/vb-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbalalla/vb-graphql/issues"
+  },
+  "homepage": "https://github.com/vbalalla/vb-graphql#readme",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
